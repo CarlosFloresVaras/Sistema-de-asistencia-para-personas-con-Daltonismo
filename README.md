@@ -19,8 +19,8 @@ La lógica de solución se basa en un enfoque multifacético que involucra la id
 
 Identificación del Tipo de Daltonismo:
 
-Utilizar algoritmos de procesamiento de imágenes para analizar la distribución de colores en la imagen proporcionada por el usuario.
-Implementar lógica que determine el tipo de daltonismo presente, ya sea deuteranopia, protanopia, tritanopia u otras variantes.
+Identificar que tipo de Daltonismo tiene el individuo, mediante un test de Ishihara hecho en Python.
+Informar al usuario de su tipo de daltonismo.
 
 Ajustes Personalizados en Canales de Color:
 
