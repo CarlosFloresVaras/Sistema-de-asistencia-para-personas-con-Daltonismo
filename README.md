@@ -9,8 +9,8 @@ ANÁLISIS
 
 
 El daltonismo es un trastorno visual que afecta la capacidad de una persona para percibir ciertos colores. Las personas con daltonismo experimentan dificultades en la diferenciación de colores específicos, lo que puede afectar significativamente su capacidad para percibir detalles en imágenes o gráficos. Este proyecto aborda la necesidad de mejorar la percepción visual de estas personas al interactuar con imágenes digitales.
-El problema central radica en cómo diseñar un programa que, mediante el procesamiento de imágenes, pueda identificar el tipo de daltonismo presente en un usuario y aplicar ajustes personalizados en los canales de color de la imagen para mejorar su visibilidad. Este enfoque se vuelve esencial para garantizar que la adaptación de las imágenes sea específica y efectiva para cada usuario, considerando las variaciones en los tipos de daltonismo.
-Además, se debe abordar la interfaz de usuario de manera cuidadosa para que sea intuitiva y accesible para personas con daltonismo, teniendo en cuenta las posibles limitaciones visuales que puedan tener. La solución también debe ser eficiente en términos de tiempo de procesamiento, ya que la aplicación de ajustes en tiempo real es fundamental para mejorar la experiencia del usuario.
+El problema central radica en cómo diseñar un programa que, mediante el procesamiento de imágenes, preguntar el tipo de daltonismo en un usuario y aplicar ajustes personalizados en los canales de color de la imagen para mejorar su visibilidad. Este enfoque se vuelve esencial para garantizar que la adaptación de las imágenes sea específica y efectiva para cada usuario, considerando las variaciones en los tipos de daltonismo.
+Además, se debe abordar la interfaz de usuario de manera cuidadosa para que sea intuitiva y accesible para personas con daltonismo, teniendo en cuenta las posibles limitaciones visuales que puedan tener. 
 
 DISEÑO
 
@@ -19,8 +19,7 @@ La lógica de solución se basa en un enfoque multifacético que involucra la id
 
 Identificación del Tipo de Daltonismo:
 
-Identificar que tipo de Daltonismo tiene el individuo, mediante un test de Ishihara hecho en Python.
-Informar al usuario de su tipo de daltonismo.
+Preguntar al usuario sobre su tipo de daltonismo.
 
 Ajustes Personalizados en Canales de Color:
 
